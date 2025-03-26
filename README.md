@@ -23,7 +23,7 @@ I want to be a great programmer in this area and I'm open to internships.
             src="https://custom-icon-badges.demolab.com/badge/Instagram-blue?style=for-the-badge&logo=instagram&logoColor=white"
         />
     </a>   
-    <a href="https://github.com/davitelesn1?tab=repositories&sort=stargazers">
+    <a href="https://github.com/davitelesn1?tab=stars">
         <img 
             alt="Total stars" 
             title="Total stars GitHub" 
