@@ -1,14 +1,26 @@
 # 🧑‍💻 Davi Teles
 **`Mobile Developer in process`**
 
-My name is Davi Enrique Andrade Teles, I'm 23 years old and I'm from Piauí, Brazil. I'm currently finishing my degree in systems analysis and development at Uniasselvi and studying dart and flutter. I want to be a great programmer in this area and I'm open to internships.
+My name is Davi Enrique Andrade Teles, I'm 23 years old and I'm from Piauí, Brazil.  
+I'm currently finishing my degree in systems analysis and development at Uniasselvi and studying Dart and Flutter.  
+I want to be a great programmer in this area and I'm open to internships.  
+
+**My email:** `davitelesn1@gmail.com`
+
 
 <p align="left">
-      <a href="[https://github.com/davitelesn1?tab=repositories&sort=stargazers](https://www.linkedin.com/in/davitelesn1/)">
+      <a href="https://www.linkedin.com/in/davitelesn1/">
         <img 
             alt="LinkedIn" 
             title="LinkedIn" 
              src="https://custom-icon-badges.demolab.com/badge/LinkedIn-blue?style=for-the-badge&logo=likidin321&logoColor=white"
+        />
+    </a>   
+        <a href="https://www.instagram.com/davitelesn1/">
+        <img 
+            alt="Instagram" 
+            title="IG" 
+            src="https://custom-icon-badges.demolab.com/badge/Instagram-blue?style=for-the-badge&logo=instagram&logoColor=white"
         />
     </a>   
     <a href="https://github.com/davitelesn1?tab=repositories&sort=stargazers">
@@ -24,8 +36,8 @@ My name is Davi Enrique Andrade Teles, I'm 23 years old and I'm from Piauí, Bra
             title="Follow me on GitHub" 
             src="https://custom-icon-badges.demolab.com/github/followers/davitelesn1?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
         />
-    </a>   
-  
+    </a>
+     
 </p>
 
 ---
