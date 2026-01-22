@@ -1,5 +1,8 @@
-# 🧑‍💻 Davi Teles
-**`Mobile Developer in process`**
+<img src="assets/laptop_code_coffee.png" alt="Ilustração laptop" width="350px" align="right">
+
+### 🧑‍💻 Davi Teles
+
+**`Mobile Developer focused on Flutter`**
 
 My name is Davi Enrique Andrade Teles, I'm 24 years old and I'm from Piauí, Brazil.  
 I'm currently finishing my degree in systems analysis and development at Uniasselvi and studying Dart and Flutter.  
