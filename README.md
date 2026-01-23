@@ -1,14 +1,16 @@
-<img src="assets/laptop_code_coffee.png" alt="Ilustração laptop" width="350px" align="right">
+<img src="assets/laptop_code_coffee.gif" alt="Ilustração laptop" width="350px" align="right">
 
 ### 🧑‍💻 Davi Teles
 
 **`Mobile Developer focused on Flutter`**
-
-My name is Davi Enrique Andrade Teles, I'm 24 years old and I'm from Piauí, Brazil.  
-I'm currently finishing my degree in systems analysis and development at Uniasselvi and studying Dart and Flutter.  
-I want to be a great programmer in this area and I'm open to internships.  
-
+<br/>
+<br/>
+My name is Davi Enrique Andrade Teles, I'm 24 years old and I'm from Piauí, Brazil. I'm currently finishing my degree in systems analysis and development at Uniasselvi and studying Dart and Flutter. I want to be a great programmer in this area and I'm open to internships.  
+<br/>
+<br/>
 **My email:** `davitelesn1@gmail.com`
+<br/>
+<br/>
 
 
 <p align="left">
@@ -42,6 +44,8 @@ I want to be a great programmer in this area and I'm open to internships.
     </a>
      
 </p>
+
+
 
 ---
 
